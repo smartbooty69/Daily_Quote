@@ -1,0 +1,1383 @@
+[
+  {
+    "category-id": 1,
+    "quotes-category": "Good morning",
+    "category-icon": "assets/images/category_icons/1.png",
+    "category-image": "assets/images/category_images/48.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Good morning",
+        "quote": "Good morning! Each day is a new chance to rewrite your story. Make it amazing!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Good morning",
+        "quote": "The morning is a magical time when all the possibilities of the day lie before you.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Good morning",
+        "quote": "Good morning! Start your day with a grateful heart and a positive mindset. It will make a world of difference.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Good morning",
+        "quote": "Every morning is a fresh beginning. Take a deep breath, smile, and start again.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Good morning",
+        "quote": "Good morning! Today is another opportunity to make a difference, to shine your light, and to be the best version of yourself.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Good morning",
+        "quote": "The morning is a gift. Don't waste it with worry or regret. Make the most of it and live every moment.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Good morning",
+        "quote": "Good morning! Today is a fresh start, a blank page waiting to be filled with your dreams and aspirations.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Good morning",
+        "quote": "The morning holds a special kind of magic. It is a time of new beginnings and endless possibilities.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Good morning",
+        "quote": "Good morning! May your day be filled with joy, love, and endless blessings.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Good morning",
+        "quote": "Each morning is a new chapter in your life. Fill it with love, positivity, and gratitude.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Good morning",
+        "quote": "Good morning! Rise and shine, for a new day is here. Embrace it with open arms and make the most of it.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Good morning",
+        "quote": "The morning is a reminder that you have been given another chance. Make the most of it and live fully.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 2,
+    "quotes-category": "Attitude",
+    "category-icon": "assets/images/category_icons/2.png",
+    "category-image": "assets/images/category_images/2.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Attitude",
+        "quote": "Attitude is everything, so pick a good one.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Attitude",
+        "quote": "A bad attitude is like a flat tire, you can't go anywhere until you change it.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Attitude",
+        "quote": "Your attitude is either the lock on, or the key to the door of success.",
+        "author": "Denis Waitley",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Attitude",
+        "quote": "A strong positive attitude will create more miracles than any wonder drug.",
+        "author": "Patricia Neal",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Attitude",
+        "quote": "The only disability in life is a bad attitude.",
+        "author": "Scott Hamilton",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Attitude",
+        "quote": "The greatest discovery of all time is that a person can change their future by merely changing their attitude.",
+        "author": "Oprah Winfrey",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Attitude",
+        "quote": "Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make, makes you. Choose wisely.",
+        "author": "Roy T. Bennett",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Attitude",
+        "quote": "The only thing more important than your to-do list is your to-be list. The only thing more important than your to-be list is to be.",
+        "author": "Alan Cohen",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Attitude",
+        "quote": "Your attitude is like a box of crayons that color your world. Constantly color your picture gray, and your picture will always be bleak. Try adding some bright colors to the picture by including humor, and your picture begins to lighten up.",
+        "author": "Allen Klein",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Attitude",
+        "quote": "A positive attitude causes a chain reaction of positive thoughts, events, and outcomes. It is a catalyst, and it sparks extraordinary results.",
+        "author": "Wade Boggs",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Attitude",
+        "quote": "The greatest discovery of my generation is that human beings can alter their lives by altering their attitudes of mind.",
+        "author": "William James",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Attitude",
+        "quote": "Your attitude is like a price tag, it shows how valuable you are.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 3,
+    "quotes-category": "Relationship",
+    "category-icon": "assets/images/category_icons/3.png",
+    "category-image": "assets/images/category_images/3.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Relationship",
+        "quote": "A true relationship is two imperfect people refusing to give up on each other.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Relationship",
+        "quote": "A great relationship is about two things: first, appreciating the similarities, and second, respecting the differences.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Relationship",
+        "quote": "In a strong relationship, trust is more important than love. It will enhance your love.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Relationship",
+        "quote": "A relationship is like a house. When a lightbulb burns out, you don't buy a new house, you fix the lightbulb.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Relationship",
+        "quote": "The best relationship is the one in which your love for each other exceeds your need for each other.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Relationship",
+        "quote": "A strong relationship starts with two brave people who are ready to sacrifice anything for one another.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Relationship",
+        "quote": "A perfect relationship isn't actually perfect. It's just that both people never give up.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Relationship",
+        "quote": "In a relationship, one person is always right, and the other person is the male.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Relationship",
+        "quote": "A strong relationship is built on good communication, love, honesty, trust, and respect.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Relationship",
+        "quote": "A great relationship is about two things: first, finding similarities, and second, respecting differences.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Relationship",
+        "quote": "A relationship with no arguments is a relationship with a lot of secrets.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Relationship",
+        "quote": "A strong relationship is choosing to love each other even in those moments when you struggle to like each other.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 4,
+    "quotes-category": "Happiness",
+    "category-icon": "assets/images/category_icons/4.png",
+    "category-image": "assets/images/category_images/4.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Happiness",
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Happiness",
+        "quote": "Happiness is not the absence of problems; it's the ability to deal with them.",
+        "author": "Steve Maraboli",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Happiness",
+        "quote": "The secret to happiness is not in doing what one likes, but in liking what one does.",
+        "author": "James M. Barrie",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Happiness",
+        "quote": "Happiness is not something ready-made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Happiness",
+        "quote": "Happiness is not a goal; it's a by-product of a life well-lived.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Happiness",
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Happiness",
+        "quote": "Happiness is a choice. You can choose to be happy. There's going to be stress in life, but it's your choice whether you let it affect you or not.",
+        "author": "Valerie Bertinelli",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Happiness",
+        "quote": "The greatest happiness you can have is knowing that you do not necessarily require happiness.",
+        "author": "William Saroyan",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Happiness",
+        "quote": "The greatest happiness is to know the source of unhappiness.",
+        "author": "Fyodor Dostoevsky",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Happiness",
+        "quote": "Be happy with what you have and are, be generous with both, and you won't have to hunt for happiness.",
+        "author": "William E. Gladstone",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Happiness",
+        "quote": "Happiness is a warm puppy.",
+        "author": "Charles M. Schulz",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Happiness",
+        "quote": "Happiness is not a goal; it's a by-product of a life well-lived.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 5,
+    "quotes-category": "Motivation",
+    "category-icon": "assets/images/category_icons/5.png",
+    "category-image": "assets/images/category_images/5.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Motivation",
+        "quote": "Success is not just about making money. It's about making a difference.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Motivation",
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Motivation",
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Motivation",
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Motivation",
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Motivation",
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Motivation",
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Motivation",
+        "quote": "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got this.",
+        "author": "Chantal Sutherland",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Motivation",
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Motivation",
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Motivation",
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Motivation",
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 6,
+    "quotes-category": "Love",
+    "category-icon": "assets/images/category_icons/6.png",
+    "category-image": "assets/images/category_images/6.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Love",
+        "quote": "Love is when the other person's happiness is more important than your own.",
+        "author": "H. Jackson Brown Jr.",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Love",
+        "quote": "Love is a game that two can play and both can win.",
+        "author": "Eva Gabor",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Love",
+        "quote": "The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.",
+        "author": "Helen Keller",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Love",
+        "quote": "Love doesn't make the world go round. Love is what makes the ride worthwhile.",
+        "author": "Franklin P. Jones",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Love",
+        "quote": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+        "author": "Victor Hugo",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Love",
+        "quote": "Love is like the wind, you can't see it but you can feel it.",
+        "author": "Nicholas Sparks",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Love",
+        "quote": "Love is the answer, and you know that for sure; Love is a flower, you've got to let it grow.",
+        "author": "John Lennon",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Love",
+        "quote": "Love is an untamed force. When we try to control it, it destroys us. When we try to imprison it, it enslaves us. When we try to understand it, it leaves us feeling lost and confused.",
+        "author": "Paulo Coelho",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Love",
+        "quote": "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.",
+        "author": "Angelita Lim",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Love",
+        "quote": "If I know what love is, it is because of you.",
+        "author": "Hermann Hesse",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Love",
+        "quote": "Love is a promise; love is a souvenir, once given never forgotten, never let it disappear.",
+        "author": "John Lennon",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Love",
+        "quote": "Love is the only force capable of transforming an enemy into a friend.",
+        "author": "Martin Luther King Jr.",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 7,
+    "quotes-category": "Good night",
+    "category-icon": "assets/images/category_icons/7.png",
+    "category-image": "assets/images/category_images/7.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Good night",
+        "quote": "Good night, sleep tight. I will be dreaming of you with all my might.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Good night",
+        "quote": "The night is more alive and more richly colored than the day.",
+        "author": "Vincent Van Gogh",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Good night",
+        "quote": "Stars can't shine without darkness. Good night.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Good night",
+        "quote": "Good night. Sleep awaits those of us who dare to dream.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Good night",
+        "quote": "The darker the night, the brighter the stars.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Good night",
+        "quote": "Good night. Don't forget to pray tonight because God did not forget to wake you up this morning.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Good night",
+        "quote": "Goodnight. May you fall asleep in the comforting arms of sweet dreams.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Good night",
+        "quote": "The night is filled with light when I'm with you. Good night, my love.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Good night",
+        "quote": "The night breeze is blowing through my hair and the soft touch reminds me of your kisses. I wish I didn't have to miss you this much.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Good night",
+        "quote": "Good night. May the stars guide you and the moonlight shine upon you.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Good night",
+        "quote": "Sleep, my love. Dream, my angel. Rest, my beautiful soul. Good night.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Good night",
+        "quote": "Good night. May your dreams be filled with love and happiness.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 8,
+    "quotes-category": "New year",
+    "category-icon": "assets/images/category_icons/8.png",
+    "category-image": "assets/images/category_images/8.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "New year",
+        "quote": "Each age has deemed the new-born year the fittest time for festal cheer.",
+        "author": "Walter Scott",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "New year",
+        "quote": "What the new year brings to you will depend a great deal on what you bring to the new year.",
+        "author": "Vern McLellan",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "New year",
+        "quote": "The new year stands before us, like a chapter in a book, waiting to be written. We can help write that story by setting goals.",
+        "author": "Melody Beattie",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "New year",
+        "quote": "Ring out the old, ring in the new.",
+        "author": "Alfred Lord Tennyson",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "New year",
+        "quote": "Write it on your heart that every day is the best day in the year.",
+        "author": "Ralph Waldo Emerson",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "New year",
+        "quote": "The new year stands before us, like a chapter in a book, waiting to be written.",
+        "author": "Melody Beattie",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "New year",
+        "quote": "We will open the book. Its pages are blank. We are going to put words on them ourselves. The book is called Opportunity and its first chapter is New Year's Day.",
+        "author": "Edith Lovejoy Pierce",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "New year",
+        "quote": "The object of a new year is not that we should have a new year. It is that we should have a new soul.",
+        "author": "G.K. Chesterton",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "New year",
+        "quote": "For last year's words belong to last year's language and next year's words await another voice.",
+        "author": "T.S. Eliot",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "New year",
+        "quote": "Cheers to a new year and another chance for us to get it right.",
+        "author": "Oprah Winfrey",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "New year",
+        "quote": "Tomorrow is the first blank page of a 365-page book. Write a good one.",
+        "author": "Brad Paisley",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "New year",
+        "quote": "The old year has gone. Let the dead past bury its own dead. The new year has taken possession of the clock of time. All hail the duties and possibilities of the coming twelve months!",
+        "author": "Edward Payson Powell",
+        "favorite": 0
+      }
+    ],
+    "favorite": 0
+  },
+  {
+    "category-id": 9,
+    "quotes-category": "God",
+    "category-icon": "assets/images/category_icons/9.png",
+    "category-image": "assets/images/category_images/9.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "God",
+        "quote": "God is the beginning and the end.",
+        "author": "Revelation 22:13",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "God",
+        "quote": "God's love is unfailing.",
+        "author": "Psalm 36:7",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "God",
+        "quote": "God is the defender of the weak.",
+        "author": "Psalm 82:3",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "God",
+        "quote": "God is the way, the truth, and the life.",
+        "author": "John 14:6",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "God",
+        "quote": "God is the sustainer of all things.",
+        "author": "Colossians 1:17",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "God",
+        "quote": "God is our shepherd.",
+        "author": "Psalm 23:1",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "God",
+        "quote": "God is the giver of eternal life.",
+        "author": "John 3:16",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "God",
+        "quote": "God's plans are perfect.",
+        "author": "Jeremiah 29:11",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "God",
+        "quote": "God is the defender of the righteous.",
+        "author": "Psalm 34:15",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "God",
+        "quote": "God is the alpha and the omega.",
+        "author": "Revelation 1:8",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "God",
+        "quote": "God is the author of salvation.",
+        "author": "Hebrews 5:9",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "God",
+        "quote": "God is the ruler of all nations.",
+        "author": "Psalm 22:28",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 10,
+    "quotes-category": "Friendship",
+    "category-icon": "assets/images/category_icons/10.png",
+    "category-image": "assets/images/category_images/10.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Friendship",
+        "quote": "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Friendship",
+        "quote": "A true friend is the greatest of all blessings and the one that we take the least thought about acquiring.",
+        "author": "Francois de La Rochefoucauld",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Friendship",
+        "quote": "Friendship is the only cement that will ever hold the world together.",
+        "author": "Woodrow Wilson",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Friendship",
+        "quote": "A real friend is one who walks in when the rest of the world walks out.",
+        "author": "Walter Winchell",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Friendship",
+        "quote": "A friend is someone who knows all about you and still loves you.",
+        "author": "Elbert Hubbard",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Friendship",
+        "quote": "A friend is one that knows you as you are, understands where you have been, accepts what you have become, and still, gently allows you to grow.",
+        "author": "William Shakespeare",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Friendship",
+        "quote": "Friendship is born when two people discover they aren't alone in the world.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Friendship",
+        "quote": "A true friend is someone who is always there for you, during both the good times and the bad times.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Friendship",
+        "quote": "Friendship is born at that moment when one person says to another, 'What! You too? I thought I was the only one.'",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Friendship",
+        "quote": "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Friendship",
+        "quote": "A true friend is the greatest of all blessings and the one that we take the least thought about acquiring.",
+        "author": "Francois de La Rochefoucauld",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Friendship",
+        "quote": "Friendship is the only cement that will ever hold the world together.",
+        "author": "Woodrow Wilson",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 11,
+    "quotes-category": "Husband",
+    "category-icon": "assets/images/category_icons/11.png",
+    "category-image": "assets/images/category_images/11.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Husband",
+        "quote": "A successful marriage requires falling in love many times, always with the same person.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Husband",
+        "quote": "In the arithmetic of love, one plus one equals everything and two minus one equals nothing.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Husband",
+        "quote": "My husband has made me laugh. Wiped my tears. Hugged me tight. Watched me succeed. Seen me fail. Kept me strong. My husband is a promise that I will have a friend forever.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Husband",
+        "quote": "A good husband is never the first to go to sleep or the last to awake in the morning.",
+        "author": "Honoré de Balzac",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Husband",
+        "quote": "A successful marriage requires falling in love many times, always with the same person.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Husband",
+        "quote": "In the arithmetic of love, one plus one equals everything and two minus one equals nothing.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Husband",
+        "quote": "My husband has made me laugh. Wiped my tears. Hugged me tight. Watched me succeed. Seen me fail. Kept me strong. My husband is a promise that I will have a friend forever.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Husband",
+        "quote": "A good husband is never the first to go to sleep or the last to awake in the morning.",
+        "author": "Honoré de Balzac",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Husband",
+        "quote": "A successful marriage requires falling in love many times, always with the same person.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Husband",
+        "quote": "In the arithmetic of love, one plus one equals everything and two minus one equals nothing.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Husband",
+        "quote": "My husband has made me laugh. Wiped my tears. Hugged me tight. Watched me succeed. Seen me fail. Kept me strong. My husband is a promise that I will have a friend forever.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Husband",
+        "quote": "A good husband is never the first to go to sleep or the last to awake in the morning.",
+        "author": "Honoré de Balzac",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 12,
+    "quotes-category": "Birthday",
+    "category-icon": "assets/images/category_icons/12.png",
+    "category-image": "assets/images/category_images/12.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Birthday",
+        "quote": "The greatest gift that you can give to others is the gift of unconditional love and acceptance.",
+        "author": "Brian Tracy",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Birthday",
+        "quote": "Today is the oldest you have been and the youngest you will ever be. Make the most of it!",
+        "author": "Nicky Gumbel",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Birthday",
+        "quote": "Don't count the years, make the years count.",
+        "author": "George Meredith",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Birthday",
+        "quote": "Youth is the gift of nature, but age is a work of art.",
+        "author": "Stanislaw Jerzy Lec",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Birthday",
+        "quote": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+        "author": "Oprah Winfrey",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Birthday",
+        "quote": "The best way to predict your future is to create it.",
+        "author": "Peter Drucker",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Birthday",
+        "quote": "With age, comes wisdom. With wisdom, comes courage.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Birthday",
+        "quote": "Happy birthday! Don't just count your years, make your years count.",
+        "author": "George Meredith",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Birthday",
+        "quote": "It's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Birthday",
+        "quote": "Growing old is mandatory, but growing up is optional.",
+        "author": "Walt Disney",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Birthday",
+        "quote": "Today you have added another candle of knowledge and wisdom to your life. May it give you the power to enlighten the whole world. On your birthday, I wish you joy and happiness.",
+        "author": "Debasish Mridha",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Birthday",
+        "quote": "Do not regret growing older. It is a privilege denied to many.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 13,
+    "quotes-category": "Wife",
+    "category-icon": "assets/images/category_icons/13.png",
+    "category-image": "assets/images/category_images/13.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Wife",
+        "quote": "A successful marriage requires falling in love many times, always with the same person.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Wife",
+        "quote": "A wife is the joy of a man's heart.",
+        "author": "Talmud",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Wife",
+        "quote": "My wife has been my closest friend, my closest advisor. And... she's not somebody who looks to the limelight, or even is wild about me being in politics. And that's a good reality check on me.",
+        "author": "Barack Obama",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Wife",
+        "quote": "The best thing a girl can be is a good wife and mother. It is a girl's highest calling. I hope I am ready.",
+        "author": "Nancy E. Turner",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Wife",
+        "quote": "A good wife always forgives her husband when she's wrong.",
+        "author": "Milton Berle",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Wife",
+        "quote": "A wife is essential to great longevity; she is the receptacle of half a man's cares, and two-thirds of his ill-humor.",
+        "author": "Charles Reade",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Wife",
+        "quote": "Husbands come and go; children come and eventually they go. Friends grow up and move away. But the one thing that's never lost is your sister.",
+        "author": "Gail Sheeny",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Wife",
+        "quote": "A good wife is one who serves her husband in the morning like a mother does, loves him in the day like a sister does, and pleases him like a prostitute in the night.",
+        "author": "Chanakya",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Wife",
+        "quote": "Behind every great man is a woman rolling her eyes.",
+        "author": "Jim Carrey",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Wife",
+        "quote": "A successful marriage requires falling in love many times, always with the same person.",
+        "author": "Mignon McLaughlin",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Wife",
+        "quote": "A wife is the joy of a man's heart.",
+        "author": "Talmud",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Wife",
+        "quote": "My wife has been my closest friend, my closest advisor. And... she's not somebody who looks to the limelight, or even is wild about me being in politics. And that's a good reality check on me.",
+        "author": "Barack Obama",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 14,
+    "quotes-category": "Sad",
+    "category-icon": "assets/images/category_icons/14.png",
+    "category-image": "assets/images/category_images/14.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Sad",
+        "quote": "No matter how hard I try, you're always on my mind.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Sad",
+        "quote": "Sadness flies away on the wings of time.",
+        "author": "Jean de La Fontaine",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Sad",
+        "quote": "Sometimes, the person you'd take a bullet for ends up being the one behind the gun.",
+        "author": "Tupac Shakur",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Sad",
+        "quote": "The saddest thing in the world is loving someone who used to love you.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Sad",
+        "quote": "Sometimes, you have to give up on people. Not because you don't care, but because they don't.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Sad",
+        "quote": "The worst feeling is pretending you don't care about something when it's all you seem to think about.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Sad",
+        "quote": "It's sad how people become what they had promised they never will.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Sad",
+        "quote": "I'm not okay, but I smile anyway.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Sad",
+        "quote": "It hurts the most when the person who made you feel special yesterday makes you feel so unwanted today.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Sad",
+        "quote": "The greatest pain is the pain of a new idea.",
+        "author": "Walter Benjamin",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Sad",
+        "quote": "People cry not because they're weak. It's because they've been strong for too long.",
+        "author": "Johnny Depp",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Sad",
+        "quote": "The saddest thing about love is that not only that it cannot last forever, but that heartbreak is soon forgotten.",
+        "author": "William Faulkner",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "category-id": 15,
+    "quotes-category": "Success",
+    "category-icon": "assets/images/category_icons/15.png",
+    "category-image": "assets/images/category_images/15.png",
+    "quotes": [
+      {
+        "id": 1,
+        "category": "Success",
+        "quote": "Success is not the result of spontaneous combustion. You must set yourself on fire.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "category": "Success",
+        "quote": "Success is not the key to happiness. Happiness is the key to success.",
+        "author": "Herman Cain",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "category": "Success",
+        "quote": "Success is not about the destination, it's about the journey.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "category": "Success",
+        "quote": "Success is not the absence of failure; it's the persistence through failure.",
+        "author": "Aisha Tyler",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "category": "Success",
+        "quote": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "category": "Success",
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "category": "Success",
+        "quote": "Success is not the key to success. You have to fail and learn from your failures.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "category": "Success",
+        "quote": "Success is not just about making money. It's about making a difference.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "category": "Success",
+        "quote": "Success is not about being the best. It's about being better than you were yesterday.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "category": "Success",
+        "quote": "Success is not the result of spontaneous combustion. You must set yourself on fire.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 11,
+        "category": "Success",
+        "quote": "Success is not the key to happiness. Happiness is the key to success.",
+        "author": "Herman Cain",
+        "favorite": 0
+      },
+      {
+        "id": 12,
+        "category": "Success",
+        "quote": "Success is not about the destination, it's about the journey.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  }
+]
